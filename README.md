@@ -2,7 +2,7 @@
 
 ## 🔍 About Me:
 🎓 I'm an engineering student in Artificial Intelligence and Data Science.  
-💻 I enjoy solving problems using **Python**, **Java**, and exploring **Machine Learning** and **Data Analysis**.
+💻 I enjoy solving problems using **Python**, and exploring **Machine Learning** and **Data Analysis**.
 
 🌍 I'm always excited to learn new things, collaborate on innovative projects, and grow as a developer.  
 I also have experience with **web development** and building data-driven applications.
